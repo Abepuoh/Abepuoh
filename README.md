@@ -1,1 +1,1 @@
-![Banner Image](BannerMa.png)
+![Banner Image](BannerMa.jpg)
