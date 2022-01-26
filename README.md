@@ -5,7 +5,7 @@
 
 
 ### 📚📚 ESTADÍSTICAS Y LENGUAJES MÁS USADOS 📚📚
-|[![Bugahontas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Abepuoh&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/Abepuoh) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abepuoh&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/Abepuoh)|
+[![Bugahontas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Abepuoh&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/Abepuoh) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abepuoh&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/Abepuoh)
 
 ### 📱📱 CONTACTA CONMIGO 📱📱
 
