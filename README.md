@@ -9,5 +9,5 @@
 [![Github badge](https://img.shields.io/badge/Abepuoh-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abepuoh) [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdeveloper/) [![Gmail badge](https://img.shields.io/badge/dammiguelangel@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dammiguelangel@g@gmail.com)
 
 ### ✨✨ PROYECTOS ACTIVOS ✨✨
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Abepuoh&repo=Captura-Front&cache_seconds=86400&theme=highcontrast)](https://github.com/Abepuoh/Captura-Front)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Abepuoh&repo=Captura-Back&cache_seconds=86400&theme=highcontrast)](https://github.com/Abepuoh/Captura-Back)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Abepuoh&repo=CapacitorNotea&cache_seconds=86400&theme=highcontrast)](https://github.com/Abepuoh/CapacitorNotea)
