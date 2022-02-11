@@ -10,4 +10,4 @@
 
 ### ✨✨ PROYECTOS ACTIVOS ✨✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Abepuoh&repo=Captura-Back&cache_seconds=86400&theme=highcontrast)](https://github.com/Abepuoh/Captura-Back) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Abepuoh&repo=CapacitorNotea&cache_seconds=86400&theme=highcontrast)](https://github.com/Abepuoh/CapacitorNotea)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Abepuoh&repo=CapacitorNotea&cache_seconds=86400&theme=highcontrast)](https://github.com/Abepuoh/CapacitorNotea)
